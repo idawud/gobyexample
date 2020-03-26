@@ -9,5 +9,9 @@ import (
 
 func main() {
 	fmt.Println(ms.ReverseRunes("Pack"))
-	fmt.Println(f.Plus(2, 3, 4, 5))
+	fmt.Println(f.Vals())
+	cl := f.Closures()
+	fmt.Println(cl())
+	fmt.Println(cl())
+	fmt.Println(cl())
 }

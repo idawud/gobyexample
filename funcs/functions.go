@@ -8,3 +8,17 @@ func Plus(nums ...int) int {
 	}
 	return sum
 }
+
+// Vals get multple returns
+func Vals() (int, int) {
+	return 3, 7
+}
+
+// Closures return another func
+func Closures() func() int {
+	count := 0
+	return func() int {
+		count++
+		return count
+	}
+}
