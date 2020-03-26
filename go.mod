@@ -1,3 +1,3 @@
-module github.com/idawud/gobyexample
+module github.com/idawud/gobyexample 
 
 go 1.14

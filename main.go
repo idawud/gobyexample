@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/idawud/gobyexample/morestring/strReverse"
+	morestring "github.com/idawud/gobyexample/morestring"
 )
 
 func main() {
-	fmt.Println(strReverse.ReverseRunes("one"))
+	fmt.Println(morestring.ReverseRunes("Pack"))
 }
