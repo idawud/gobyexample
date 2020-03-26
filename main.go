@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/idawud/gobyexample/morestring/strReverse"
+)
 
 func main() {
-	fmt.Println("one")
+	fmt.Println(strReverse.ReverseRunes("one"))
 }
