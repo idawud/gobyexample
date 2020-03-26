@@ -3,9 +3,11 @@ package main
 import (
 	"fmt"
 
-	morestring "github.com/idawud/gobyexample/morestring"
+	f "github.com/idawud/gobyexample/funcs"
+	ms "github.com/idawud/gobyexample/morestring"
 )
 
 func main() {
-	fmt.Println(morestring.ReverseRunes("Pack"))
+	fmt.Println(ms.ReverseRunes("Pack"))
+	fmt.Println(f.Plus(2, 3, 4, 5))
 }
