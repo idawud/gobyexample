@@ -1,7 +1,16 @@
 package funcs
 
+// Plusx returns sum of 3 ints
+func Plusx(nums ...int) int {
+	sum := 0
+	for _, num := range nums {
+		sum += num
+	}
+	return sum
+}
+
 // Plus returns sum of 3 ints
-func Plus(nums ...int) int {
+func Plus(nums []int) int {
 	sum := 0
 	for _, num := range nums {
 		sum += num
