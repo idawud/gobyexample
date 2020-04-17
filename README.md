@@ -14,5 +14,9 @@ Books
 
 - [Go in Action ~WILLIAM KENNEDY](https://drive.google.com/file/d/1SvLnqoAm30nmkZVDd_bUPOSdwfjShahq/view?usp=sharing)
 
+Articles
+- [Setting Up Swagger Docs for Golang API](https://towardsdatascience.com/setting-up-swagger-docs-for-golang-api-8d0442263641)
+- [REST API Error Handling in Go: Behavioral Type Assertion](https://medium.com/ki-labs-engineering/rest-api-error-handling-in-go-behavioral-type-assertion-509d93636afd)
+
 Exercise
 - [Exercism](https://exercism.io/my/tracks/go)
