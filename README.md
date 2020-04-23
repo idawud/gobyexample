@@ -15,9 +15,9 @@ Articles
 - [REST API Error Handling in Go: Behavioral Type Assertion](https://medium.com/ki-labs-engineering/rest-api-error-handling-in-go-behavioral-type-assertion-509d93636afd)
 
 gRPC
--[How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2)
--[A brief introduction to gRPC in Go](https://blog.lelonek.me/a-brief-introduction-to-grpc-in-go-e66e596fe244)
--[First gRPC server for Go](https://medium.com/@at_ishikawa/first-grpc-server-for-go-5d64d6c9c914)
+- [How we use gRPC to build a client/server system in Go](https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2)
+- [A brief introduction to gRPC in Go](https://blog.lelonek.me/a-brief-introduction-to-grpc-in-go-e66e596fe244)
+- [First gRPC server for Go](https://medium.com/@at_ishikawa/first-grpc-server-for-go-5d64d6c9c914)
 
 Exercise
 - [Exercism](https://exercism.io/my/tracks/go)
