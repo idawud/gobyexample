@@ -6,6 +6,9 @@ Online Resources
 - [learn-go-with-tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [gobyexample](https://gobyexample.com/) 
 
+Libraries
+- [Go Porpular Libraries List](https://awesome-go.com/)
+
 Books
 - [Go Web Programming ~SAU SHEONG CHANG](https://drive.google.com/open?id=0Bx30jIsc6LPkeDdoTGhUdlFnTUU)
 - [Go in Action ~WILLIAM KENNEDY](https://drive.google.com/file/d/1SvLnqoAm30nmkZVDd_bUPOSdwfjShahq/view?usp=sharing)
